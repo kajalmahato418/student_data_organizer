@@ -272,10 +272,10 @@ Run the following command:
 
 ```bash
 python main.py
+```
 
 ---
-
-## 🎯 Learning Objectives
+## Learning Objectives
 
 Through this project, I learned:
 
@@ -296,9 +296,8 @@ Through this project, I learned:
 
 ---
 
-## 📸 Output
-
-![Project Output](output.png)
+## Output
+![Program Output](output.png)
 
 
 
