@@ -298,7 +298,7 @@ Through this project, I learned:
 
 ## 📸 Output
 
-![Program Output](output.png)
+![Project Output](output.png)
 
 
 
